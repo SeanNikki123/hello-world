@@ -1,2 +1,5 @@
 # hello-world
-First...
+# First...
+public static void main(System[] args){
+  System.out.println("Hello World");
+}
